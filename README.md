@@ -6,3 +6,5 @@ A book describing the functions necessary for basic quantitative analysis in R, 
 ## Disclaimer
 By using the files contained in this directory, you agree not to use them for monetary gain.
 Please give credit if you decide to use it either in its entirety or in part 😃!
+
+## [Direct Link to PDF of Lab Book](https://github.com/JohnWagner/R-Lab-Book/blob/main/R%20Intro%20Book.pdf)
