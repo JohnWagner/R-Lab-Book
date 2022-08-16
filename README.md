@@ -1,4 +1,4 @@
-# R-Lab-Book
+# R-Lab-Book for Use in Undergraduate Statistics and Quantitative Methods Courses
 
 ## Description
 A book describing the functions necessary for basic quantitative analysis in R, including data importation, manipulation, summarization, and analysis. I use it in my undergraduate social science quantitiative methods courses.
